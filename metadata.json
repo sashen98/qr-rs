@@ -1,0 +1,6 @@
+{
+  "name": "Price Scanner",
+  "description": "Smart QR and barcode scanner for bills and products with instant price display and audio feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

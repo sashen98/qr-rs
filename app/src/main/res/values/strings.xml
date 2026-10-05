@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Price Scanner</string>
+    <string name="scanner_title">Price &amp; QR Scanner</string>
+    <string name="camera_permission_title">Camera Permission Needed</string>
+    <string name="camera_permission_desc">To scan bills, soap boxes, barcodes, and QR codes, please grant camera permission.</string>
+    <string name="grant_permission">Grant Camera Permission</string>
+    <string name="scan_hint">Align QR code or product barcode inside the frame</string>
+    <string name="flash_on">Turn Flash On</string>
+    <string name="flash_off">Turn Flash Off</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="history_title">Scan History</string>
+    <string name="clear_all">Clear All</string>
+    <string name="delete_item">Delete</string>
+    <string name="no_scans_yet">No items scanned yet</string>
+    <string name="price_label">PRICE</string>
+    <string name="unknown_price">Price Not Specified</string>
+    <string name="item_details">Item Details</string>
+    <string name="raw_code">Raw Code</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="search_web">Search Online</string>
+    <string name="scan_again">Scan Next</string>
+</resources>
